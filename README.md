@@ -4,8 +4,8 @@
 * you can face the camera of your phone and then the application will automaticlly detect you gender,age,skin color and smile index.
 * I use *[Face++](http://www.faceplusplus.com.cn/api-overview/)* to detect the datas.
 *  you can download the *apk on [google play](https://play.google.com/store/apps/details?id=cn.invocator.facedetect)* or on *[HUAWEI STORE](http://appstore.huawei.com/app/C10235377)*
-#
-##SCREENSHOT
+SCREENSHOT
+===
 ***
 ![image](https://github.com/adamin1990/agetestcamera/raw/master/art/screenshot.jpg)
 
