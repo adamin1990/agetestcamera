@@ -6,7 +6,9 @@
 *  you can download the *apk on [google play](https://play.google.com/store/apps/details?id=cn.invocator.facedetect)* or on *[HUAWEI STORE](http://appstore.huawei.com/app/C10235377)*
 SCREENSHOT
 ===
-***
+
+
+
 ![image](https://github.com/adamin1990/agetestcamera/raw/master/art/screenshot.jpg)
 
 LIENCE
