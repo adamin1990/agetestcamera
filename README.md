@@ -9,8 +9,7 @@
 ***
 ![image](https://github.com/adamin1990/agetestcamera/raw/master/art/screenshot.jpg)
 #
-##LIENCE
-#
+LIENCE
 ========
 
 Copyright (c) 2014 Anton Malinskiy
