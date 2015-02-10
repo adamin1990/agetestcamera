@@ -5,6 +5,13 @@
 * I use *[Face++](http://www.faceplusplus.com.cn/api-overview/)* to detect the datas.
 *  you can download the *apk on [google play](https://play.google.com/store/apps/details?id=cn.invocator.facedetect)* or on *[HUAWEI STORE](http://appstore.huawei.com/app/C10235377)*
 
+##技术点 
+
+* 检测人脸，获取屏幕bitmap
+* 监听上传bitmap 
+* json 数据解析 
+* 自定义view  ...
+
 SCREENSHOT
 ========
 
